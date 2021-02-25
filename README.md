@@ -4,7 +4,7 @@ Park Daemin
 
 🌱 I’m currently learning Java, Python
 
-⚡ Fun fact: ...
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=qjrrogoa&show_icons=true)
 <!--
