@@ -2,7 +2,7 @@
 
 
 
-🌱 I’m currently learning Java, Python
+🌱 I’m currently learning Java, Python, ORACLE
 
 
 
